@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'djoser',
     'drf_yasg',
     'debug_toolbar',
+    'todo',
 ]
 
 CORS_ALLOW_CREDENTIALS = True
